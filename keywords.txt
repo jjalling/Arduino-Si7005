@@ -1,0 +1,39 @@
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <jonas@jalling.dk> wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.   Jonas Bo Jalling
+ * ----------------------------------------------------------------------------
+ */
+#######################################
+# Syntax Coloring Map For Si7005
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+detectSensor	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
+enableHeater	KEYWORD2
+disableHeater	KEYWORD2
+enableFastMeasurements	KEYWORD2
+disableFastMeasurements	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Si7005	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
